@@ -21,6 +21,7 @@
                 echo $d.'</br>';
             }
         ?>
+        <p>Notification: I haven't finished form</p>
         <h2>Insert new user</h2> 
         <form action="./" method="post">
         <div class="form-group">
