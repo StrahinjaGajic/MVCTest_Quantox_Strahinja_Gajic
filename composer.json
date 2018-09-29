@@ -1,0 +1,14 @@
+{
+    "name": "MVCTest_Quantox",
+    "type": "project",
+    "authors": [{
+        "name": "Strahinja Gajić",
+        "email": "strahinja.gajic.public@gmail.com"
+    }],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    }
+}
